@@ -1,0 +1,7 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Claude Code per-user local settings
+.claude/settings.local.json
