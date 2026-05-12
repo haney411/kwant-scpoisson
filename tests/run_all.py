@@ -16,6 +16,7 @@ test_modules = [
     "test_nonequilibrium",
     "test_ribbon",
     "test_ribbon_2d",
+    "test_bhz",
 ]
 
 # Make tests/ importable
